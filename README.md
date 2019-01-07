@@ -1,2 +1,5 @@
-# Java-Alogrithm-Simple
-Create Java Alogrithm Simple
+# Java Algorithm's Simple
+Create Java Algorithm Simple
+
+###### 1. Stack Algorithm
+
